@@ -1,0 +1,8 @@
+{
+  "emulator.emulatorPathWindows": "\"C:\\Users\\bhand\\AppData\\Local\\Android\\Sdk\"",
+  "editor.formatOnSave": true,
+  "notebook.formatOnSave.enabled": true,
+  "accessibility.signals.format": {
+    "sound": "never"
+  }
+}

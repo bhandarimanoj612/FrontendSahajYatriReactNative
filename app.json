@@ -1,0 +1,59 @@
+{
+  "expo": {
+    "name": "SahajYatri",
+    "slug": "SahajYatri",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2B3384"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.manooz.SahajYatri"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2B3384",
+        "package": "com.bhandarimanoj.findplace",
+        "googleMapsApiKey": "AIzaSyBTTmffWdrtR0QlnOEicA6zb_lsGe8WZWY"
+      },
+      "permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.FOREGROUND_SERVICE"
+      ],
+      "package": "com.manooz.SahajYatri"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow Sahaj Yatri to use your location."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "3298a5a3-b3b7-4c17-8823-ca6612e74b7d"
+      }
+    },
+    "plugins": [
+      [
+        "@stripe/stripe-react-native",
+        {
+          "merchantIdentifier": "sahaj-Yatri",
+          "enableGooglePay": true
+        }
+      ]
+    ]
+  }
+}
