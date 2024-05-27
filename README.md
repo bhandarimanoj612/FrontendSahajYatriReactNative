@@ -1,3 +1,5 @@
 Video Link-
 
 https://www.linkedin.com/feed/update/urn:li:activity:7184746926678966272/?originTrackingId=Cuf2SPVuSQmpRQVABZyF%2FA%3D%3D
+
+ A comprehensive travel app built using React Native, React, Tailwindcss and ASP.NET! 🌍✈️📱 The app allows users to effortlessly book travel packages, vehicles, and hotels, manage expenses, explore destinations via interactive maps, and engage in real-time chat functionalities.💳 Integrated secure payment gateways ensure smooth transactions, while push notifications keep users updated on their bookings and travel plans.🔧 Leveraged React Native for the user app, along with React and React Native for the admin interface, ensuring a seamless experience across platforms.💻 Also developed a dedicated website for streamlined booking management and data visualization, offering users and administrators alike a comprehensive overview of bookings and analytics.🎓 Proud of the journey and the skills honed throughout this project. Excited to continue learning and exploring new opportunities in the world of software development
